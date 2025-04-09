@@ -24,7 +24,6 @@ Welcome to **TransitWise SG**, a mobile application designed to help users navig
 5. **Light and Dark Mode**  
    - Switch themes based on your preference and lighting conditions.
 
----
 
 ## 💻 Running the Application
 
