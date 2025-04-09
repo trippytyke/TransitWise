@@ -1,12 +1,10 @@
 # TransitWise SG
 
----
 
 ## 📖 Overview
 
 Welcome to **TransitWise SG**, a mobile application designed to help users navigate Singapore’s public transport system efficiently. Whether you're planning your next bus ride, finding a taxi nearby, or checking real-time weather updates, TransitWise SG is your comprehensive travel companion.
 
----
 
 ## 🚀 Features
 
@@ -62,7 +60,6 @@ Ensure the application has access to:
 - **Location Services**: For nearby transport options.  
 - **Network Access**: To fetch real-time data.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -71,7 +68,6 @@ Ensure the application has access to:
 - Google Maps API: Location services and navigation.  
 - DATA Gov SG API: Real-time weather updates.
 
----
 
 ## 🌐 Online Demo
 
@@ -81,7 +77,6 @@ Ensure the application has access to:
 - If testing on Expo Snack, use the **Android** or **iOS emulator** for optimal performance.  
 - Certain dependencies do not work well on the web emulator. Switch to a supported emulator if you encounter errors.
 
----
 
 ## 📊 Additional Information
 
@@ -89,14 +84,12 @@ Ensure the application has access to:
 - Use the app in Singapore for the best experience.
 - Allow all requested permissions for accurate real-time data.
 
----
 
 ## 📬 Contact
 
 For questions, suggestions, or collaborations, feel free to reach out at:  
 syahmi.ariffin@gmail.com
 
----
 
 ## 📝 License
 
